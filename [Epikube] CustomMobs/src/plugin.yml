@@ -1,0 +1,5 @@
+name: CustomMobs
+version: 0.1
+author: IsiZ_
+description: Plugin for Epikube 
+main: fr.isiz.epikube.CustomMobPlugin
